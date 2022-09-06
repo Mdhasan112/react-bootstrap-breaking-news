@@ -7,7 +7,7 @@ const Header = () => {
       <Card>
             <Card.Header as="h5">Featured</Card.Header>
             <Card.Body>
-                <Card.Title>Breaking News</Card.Title>
+                <h1>Breaking News</h1>
                 <Card.Text>
                     With supporting text below as a natural lead-in to additional content.
                 </Card.Text>
